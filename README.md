@@ -42,7 +42,3 @@ Important Note:
 	If you get acquainted with ADF now, once you start integrating the development teams projects with ADF you will notice that each of their projects also has the three mentioned above. The files are even in the same directory. This is because ADF could be thought of as a parent of the Development projects once configured properly. All Development projects shall conform to the structure of ADF with regards to where the azure, docker, and makefile are located. 
 
 
-#### How to use
----
-** TBD **
-
